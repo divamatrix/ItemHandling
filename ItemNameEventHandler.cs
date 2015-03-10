@@ -3,7 +3,7 @@ using System.Linq;
 using Sitecore.Data.Items;
 using Sitecore.Events;
 
-namespace ItemHandling
+namespace ItemRenamingHandler
 {
     public class ItemNameEventHandler 
     {
